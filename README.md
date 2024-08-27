@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**2900000/2900000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mauan Vitor Pezzini
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https:www.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhação dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 
+
+@Mauan_pezzini
+
+
+![](https://media.tenor.com/C-5O7CkSExIAAAAM/free-fire-max.gif)
